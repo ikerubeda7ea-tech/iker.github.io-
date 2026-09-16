@@ -9,3 +9,11 @@
 ---
 
 *“The best way to predict the future is to invent it.”* 💻✨
+
+---
+
+### 👾 Un poco más sobre mí
+
+Tengo **21 años** y, fuera de las pantallas y el código, soy un gran apasionado del **anime** y la fantasia. Me encanta disfrutar de una buena historia, seguir mis series favoritas en mi tiempo libre y conectar con gente que comparta los mismos gustos.
+
+![gilgamesh](https://knowyourmeme.com/photos/1703921-fategrand-order)
